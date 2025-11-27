@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m an enthusiastic **Java Developer** with a strong interest in **Backend Development**, **Web Technologies**, and creating practical applications.  
 Currently focusing on mastering **Full Stack Java Development** and building projects to strengthen my skills.
 
@@ -33,18 +33,21 @@ Currently focusing on mastering **Full Stack Java Development** and building pro
 ### **Frontend Development**
 - HTML5  
 - CSS3  
-- Basic JavaScript  
+- JavaScript  
 
 ### **Database**
 - MySQL  
-- MariaDB  
+- PL/SQL  
 
 ### **Tools & Platforms**
 - Git & GitHub  
 - Postman  
 - IntelliJ IDEA  
 - Eclipse  
-- VS Code  
+- VS Code
+- Xampp
+- Postgresql
+- Workbench 
 
 ---
 
@@ -104,9 +107,9 @@ A fully responsive personal portfolio built to showcase projects and skills.
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **ajaymungase2103@gmail.com**
-- 🌐 GitHub: **github.com/ajaymungase**
-- 💼 LinkedIn: _Add link to include_
+- 📧 Email: **mungaseajay03@gmail.com**
+- 🌐 GitHub: **https://github.com/ajaymungase**
+- 💼 LinkedIn: **www.linkedin.com/in/ajaymungase**
 
 ---
 
