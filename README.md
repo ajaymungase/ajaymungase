@@ -1,14 +1,113 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Ajay Mungase</h1>
+<p align="center">Aspiring Full Stack Java Developer | Passionate About Building Real-World Applications</p>
 
-**ajaymungase/ajaymungase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m an enthusiastic **Java Developer** with a strong interest in **Backend Development**, **Web Technologies**, and creating practical applications.  
+Currently focusing on mastering **Full Stack Java Development** and building projects to strengthen my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Currently learning **Spring Boot**, **JSP/Servlets**, and **SQL**
+- 🌱 Exploring Full Stack application development
+- 🎯 Goal: Become a professional **Full Stack Java Developer**
+- 🧠 Love solving problems & writing clean code
+- 📍 Pune, India
+
+---
+
+## 🛠️ Skills
+
+### **Programming Languages**
+- Java  
+- SQL  
+- JavaScript  
+- HTML, CSS  
+
+### **Backend Development**
+- Spring Boot  
+- REST APIs  
+- JDBC  
+- Hibernate (Basics)  
+- Servlet & JSP  
+
+### **Frontend Development**
+- HTML5  
+- CSS3  
+- Basic JavaScript  
+
+### **Database**
+- MySQL  
+- MariaDB  
+
+### **Tools & Platforms**
+- Git & GitHub  
+- Postman  
+- IntelliJ IDEA  
+- Eclipse  
+- VS Code  
+
+---
+
+## 📂 Projects
+
+<details>
+<summary><strong>1️⃣ Hotel Booking System (Console Based)</strong></summary>
+
+A console-based Java project where users can register, manage hotels, and book rooms.
+
+**Tech Stack:** Java, OOP, File Handling  
+**Features:**  
+- User Registration  
+- Add & Manage Hotels  
+- Room Booking  
+- Data stored in text files  
+</details>
+
+---
+
+<details>
+<summary><strong>2️⃣ Student Management System (Spring MVC)</strong></summary>
+
+A CRUD web application built using Spring MVC and JSP for managing student data.
+
+**Tech Stack:** Spring MVC, JSP, Servlet, MySQL  
+**Features:**  
+- Add / Update / Delete Students  
+- Student Listing  
+- Form Handling  
+- Database Integration  
+</details>
+
+---
+
+<details>
+<summary><strong>3️⃣ Personal Portfolio Website</strong></summary>
+
+A fully responsive personal portfolio built to showcase projects and skills.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+**Features:**  
+- Clean & Modern Design  
+- About / Projects / Contact Sections  
+- Mobile Responsive  
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaymungase&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymungase&layout=compact&theme=default" height="160" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **ajaymungase2103@gmail.com**
+- 🌐 GitHub: **github.com/ajaymungase**
+- 💼 LinkedIn: _Add link to include_
+
+---
+
+### ⭐ If you like my work, consider giving a star to my repositories!
