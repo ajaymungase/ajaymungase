@@ -53,7 +53,7 @@ Currently focusing on mastering **Full Stack Java Development** and building pro
 
 ## 📂 Projects
 
-<details>
+<!-- <details>
 <summary><strong>1️⃣ Hotel Booking System (Console Based)</strong></summary>
 
 A console-based Java project where users can register, manage hotels, and book rooms.
@@ -93,16 +93,11 @@ A fully responsive personal portfolio built to showcase projects and skills.
 - Clean & Modern Design  
 - About / Projects / Contact Sections  
 - Mobile Responsive  
-</details>
+</details> -->
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaymungase&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymungase&layout=compact&theme=default" height="160" />
-</p>
 
 ---
 
@@ -113,4 +108,4 @@ A fully responsive personal portfolio built to showcase projects and skills.
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### 
