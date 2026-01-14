@@ -24,6 +24,7 @@ Currently focusing on mastering **Full Stack Java Development** and building pro
 - HTML, CSS  
 
 ### **Backend Development**
+- Spring Core
 - Spring Boot  
 - REST APIs  
 - JDBC  
