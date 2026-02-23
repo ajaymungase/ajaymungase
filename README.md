@@ -69,7 +69,7 @@ Responsive portfolio showcasing projects & skills.
 ## 📄 Resume
 
 📥 Download Resume:  
-[Ajay Mungase - Full Stack Java Developer Resume](./Ajay Mungase_Java.pdf)
+[Ajay Mungase - Full Stack Java Developer Resume](./Ajay_Mungase_Java.pdf)
 
 ---
 
