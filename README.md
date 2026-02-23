@@ -62,11 +62,11 @@ Responsive portfolio showcasing projects & skills.
 
 ## 🌐 Professional Links
 
-🔹 **Portfolio Website:**  
-https://ajaymungase.github.io/Portfolio/
+🔹 **Portfolio Website:**   [Click to Open](https://ajaymungase.github.io/Portfolio/)
+   
 
-🔹 **Resume (PDF):**  
-[Download Here](./Ajay_Mungase_Java.pdf)
+🔹 **Resume (PDF):**  [Download My CV](./Ajay_Mungase_Java.pdf)
+    
 
 ---
 
