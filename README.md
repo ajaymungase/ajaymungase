@@ -66,6 +66,11 @@ Responsive portfolio showcasing projects & skills.
 🔗 GitHub: https://github.com/ajaymungase  
 🔗 LinkedIn: https://www.linkedin.com/in/ajaymungase  
 
+## 📄 Resume
+
+📥 Download Resume:  
+[Ajay Mungase - Full Stack Java Developer Resume](./Ajay Mungase_Java.pdf)
+
 ---
 
 ⭐ Open to Full Stack Java Developer Opportunities
