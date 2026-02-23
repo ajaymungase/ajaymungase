@@ -70,9 +70,6 @@ https://ajaymungase.github.io/Portfolio/
 
 ---
 
-
----
-
 ## 📫 Contact
 
 📧 Email: mungaseajay03@gmail.com  
