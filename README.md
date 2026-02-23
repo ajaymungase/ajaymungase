@@ -60,16 +60,24 @@ Responsive portfolio showcasing projects & skills.
 
 ---
 
+## 🌐 Professional Links
+
+🔹 **Portfolio Website:**  
+https://ajaymungase.github.io/Portfolio/
+
+🔹 **Resume (PDF):**  
+[Download Here](./Ajay_Mungase_Java.pdf)
+
+---
+
+
+---
+
 ## 📫 Contact
 
 📧 Email: mungaseajay03@gmail.com  
 🔗 GitHub: https://github.com/ajaymungase  
 🔗 LinkedIn: https://www.linkedin.com/in/ajaymungase  
-
-## 📄 Resume
-
-📥 Download Resume:  
-[Ajay Mungase - Full Stack Java Developer Resume](./Ajay_Mungase_Java.pdf)
 
 ---
 
