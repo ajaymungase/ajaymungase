@@ -50,13 +50,13 @@ Patient records & appointment management system with backend validation.
 ### 🔹 SmartLearn – E-Learning Platform  
 E-Learning System for Students with specific free Certified Courses.  
 **Tech:** HTML, CSS, Javascript  
-🌐 Live: https://ajaymungase.github.io/SmartLearn/
+🌐 Live: [Click to Open](https://ajaymungase.github.io/SmartLearn/)
 
 ---
 
 ### 🔹 Personal Portfolio  
 Responsive portfolio showcasing projects & skills.  
-🌐 Live: https://ajaymungase.github.io/Portfolio/  
+🌐 Live: [Click to Open](https://ajaymungase.github.io/Portfolio/)  
 
 ---
 
@@ -73,8 +73,8 @@ Responsive portfolio showcasing projects & skills.
 ## 📫 Contact
 
 📧 Email: mungaseajay03@gmail.com  
-🔗 GitHub: https://github.com/ajaymungase  
-🔗 LinkedIn: https://www.linkedin.com/in/ajaymungase  
+🔗 [GitHub](https://github.com/ajaymungase)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ajaymungase)  
 
 ---
 
